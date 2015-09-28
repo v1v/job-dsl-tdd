@@ -1,0 +1,15 @@
+.idea
+*.ipr
+*.iml
+*.iws
+build
+.gradle
+**/fs/plugins
+**/fs/secrets
+**/fs/updates
+**/fs/userContent
+**/fs/*.*
+**/fs/war
+**/fs/.*
+**/fs/init.*
+**/fs/jobs/seed/builds/L*
