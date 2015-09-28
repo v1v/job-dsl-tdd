@@ -1,0 +1,8 @@
+local:
+  build: local
+  ports:
+   - "15000:5000"
+   - "18080:8080"
+  volumes:
+   - ./local/fs:/var/jenkins_home
+  dns: 8.8.8.8
